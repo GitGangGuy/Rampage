@@ -3,7 +3,7 @@
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
-        "title": "",
+        "title": "Rampage",
         "toolbar": false,
         "width": 816,
         "height": 624,
